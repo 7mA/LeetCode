@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Delete_Operation_for_Two_Strings", "Delete_Operation_for_Two_Strings\Delete_Operation_for_Two_Strings.vcxproj", "{09B4075C-95E4-4671-92F9-FB84F9547DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B4075C-95E4-4671-92F9-FB84F9547DBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09B4075C-95E4-4671-92F9-FB84F9547DBB}.Debug|Win32.Build.0 = Debug|Win32
+		{09B4075C-95E4-4671-92F9-FB84F9547DBB}.Release|Win32.ActiveCfg = Release|Win32
+		{09B4075C-95E4-4671-92F9-FB84F9547DBB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

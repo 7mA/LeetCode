@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoveZeroes", "MoveZeroes\MoveZeroes.vcxproj", "{C51DC2D5-75D0-4590-8287-E1BEF9A92D23}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array_Partition_I", "..\Array_Partition_I\Array_Partition_I\Array_Partition_I.vcxproj", "{60BC1E01-4D71-46DD-ABF6-0832A6F6F5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51DC2D5-75D0-4590-8287-E1BEF9A92D23}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C51DC2D5-75D0-4590-8287-E1BEF9A92D23}.Debug|Win32.Build.0 = Debug|Win32
+		{C51DC2D5-75D0-4590-8287-E1BEF9A92D23}.Release|Win32.ActiveCfg = Release|Win32
+		{C51DC2D5-75D0-4590-8287-E1BEF9A92D23}.Release|Win32.Build.0 = Release|Win32
+		{60BC1E01-4D71-46DD-ABF6-0832A6F6F5C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60BC1E01-4D71-46DD-ABF6-0832A6F6F5C7}.Debug|Win32.Build.0 = Debug|Win32
+		{60BC1E01-4D71-46DD-ABF6-0832A6F6F5C7}.Release|Win32.ActiveCfg = Release|Win32
+		{60BC1E01-4D71-46DD-ABF6-0832A6F6F5C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
