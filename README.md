@@ -1,1 +1,1 @@
-This is my repo for LeetCode.
+This is my repo for LeetCode (in C++).
